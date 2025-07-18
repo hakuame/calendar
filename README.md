@@ -7,9 +7,9 @@ Moon phase & Mercury Rx calendar
 - moon phases
 
 # Live Demo
-- https://hakuamesan.github.io/calendar/cal2025.html
-- https://hakuamesan.github.io/calendar/cal2024.html
-- https://hakuamesan.github.io/calendar/cal2023.html
-- https://hakuamesan.github.io/calendar/cal2022.html
-- https://hakuamesan.github.io/calendar/cal2021.html
-- https://hakuamesan.github.io/calendar/cal2020.html
+- https://hakuame.github.io/calendar/cal2025.html
+- https://hakuame.github.io/calendar/cal2024.html
+- https://hakuame.github.io/calendar/cal2023.html
+- https://hakuame.github.io/calendar/cal2022.html
+- https://hakuame.github.io/calendar/cal2021.html
+- https://hakuame.github.io/calendar/cal2020.html
